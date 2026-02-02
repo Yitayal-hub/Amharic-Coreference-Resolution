@@ -52,16 +52,6 @@ Evaluation
 bash
 python3 evaluate.py <experiment_name> <eval_data_path> [<output_file>]
 
-Examples:
-
-bash
-# Single model evaluation
-python3 evaluate.py train_am_mentcoref test.amharic.jsonlines predictions.jsonlines
-
-# Two-model pipeline
-python3 evaluate.py train_am_ment,train_am_coref test.amharic.jsonlines final_predictions.jsonlines
-
-
 Output Format
 
 The system outputs predictions in JSON Lines format with the following structure:
