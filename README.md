@@ -332,20 +332,6 @@ The repository includes custom C++ kernels for efficient span extraction operati
 
 ---
 
-## 🔮 Future Work
-
-Based on the paper's conclusions:
-
-1. **Expanded Dataset**: Develop larger, domain-diverse annotated corpora for Amharic.
-2. **Contextualized Embeddings**: Integrate transformer-based models (BERT, XLM-R, Amharic-specific).
-3. **Graph Neural Networks**: Apply GNNs for explicit modeling of mention relationships and cluster coherence.
-4. **Multi-task Learning**: Joint training with NER, dependency parsing, or other related tasks.
-5. **Cross-lingual Transfer**: Leverage resources from higher-resource Semitic languages.
-6. **Explainable AI**: Incorporate XAI techniques for model transparency and error analysis.
-7. **Complex Phenomena**: Extend to implicit mentions, bridging anaphora, and cataphora.
-
----
-
 ## 📝 Citation
 
 If you use this code or dataset in your research, please cite:
