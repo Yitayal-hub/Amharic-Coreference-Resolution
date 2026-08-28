@@ -381,7 +381,7 @@ For questions or collaborations, please contact:
 
 - **Yitayal Abate**: yitayal.abate@aau.edu.et
 - **Yaregal Assabie**: yaregal.assabie@aau.edu.et
-- **Wolfgang Menzel**: Department of Informatics, University of Hamburg
+- **Wolfgang Menzel**: wolfgang.menzel@uni-hamburg.de
 
 ---
 
